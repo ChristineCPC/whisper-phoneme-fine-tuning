@@ -22,17 +22,17 @@ This dataset consists of a mix of dysarthic and non-dysarthic audio samples. The
 ## Results
 
 ### Training Results
-[Training Results](Training_Results.png)
+![Training Results](Training_Results.png)
 
 Testing Loss: 0.239
 
 ### Sample Outputs from Testing
-[Sample Outputs](Sample_Outputs.png)
+![Sample Outputs](Sample_Outputs.png)
 
 
 ## Implementation
 Integrating the model into the mulit-model archetechture provides the following output: 
 
-[Output from integrating model](Output_Example.png)
+![Output from integrating model](Output_Example.png)
 
 This demonstrates the model's ability to help provide accurate scoring and a list of mispronunced phonemes, creating the ability to provide feedback personalized for speech therapy.
